@@ -1,0 +1,66 @@
+.main{
+    width: 1200px;
+    height: 320px;
+    margin: auto;
+}
+img{
+    display: block;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin: auto;
+}
+.Search_Bar{
+    background-color: antiquewhite;
+    padding-bottom: 4px;
+}
+p{
+    font-weight: bold;
+    margin: 2px;
+    text-align: center;
+}
+.input_text{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+.button{
+    width: 19%;
+    display: block;
+    margin: 5px auto;
+}
+.three_div{
+    width: 1200px;
+}
+.first_div{
+    padding-top:10px;
+    width: 497px;
+    height: 90px;
+    background-color: #9FE2BF;
+    margin: 5px 1px 5px 1px;
+    float: left;
+}
+.second_div{
+    padding-top:10px;
+    width: 200px;
+    height: 90px;
+    background-color: #9FE2BF;
+    margin: 5px 1px 5px 1px;
+    float: left;
+}
+.third_div{
+    height: 100px;
+    width: 497px;
+    background-color: #9FE2BF;
+    margin: 5px 1px 5px 1px;
+    float: left;
+}
+.three_div a {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: blue;
+}
+.input_btn{
+    margin-left: 150px;
+    margin-top: 3px;
+}
